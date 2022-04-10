@@ -1,0 +1,5 @@
+D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/Test.dir
+D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/Test_autogen_timestamp_deps.dir
+D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/Test_autogen.dir

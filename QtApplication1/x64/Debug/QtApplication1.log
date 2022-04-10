@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (D:/QT/6.2.4/msvc2019_64/bin/qmake)
+QtApplication1.vcxproj : error : ERROR running qmake
+QtApplication1.vcxproj : error : qmake: (D:/QT/6.2.4/msvc2019_64/bin/qmake)
+QtApplication1.vcxproj : error : qmake: $PWD=D:\my repo\QT\QtApplication1\x64\Debug\qmake\temp
+QtApplication1.vcxproj : error : qmake: Project ERROR: Unknown module(s) in QT: winextras
+QtApplication1.vcxproj : error : qmake: Error creating .vcxproj file
+QtApplication1.vcxproj : error : 

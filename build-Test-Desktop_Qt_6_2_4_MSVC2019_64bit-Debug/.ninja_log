@@ -1,0 +1,14 @@
+# ninja log v5
+8	204	6711787639609256	Test_autogen/mocs_compilation.cpp	da9b9cdb77211a8d
+2	32	6712038473383960	D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	e7068169767435a1
+369	2450	6702671664220433	CMakeFiles/Test.dir/Test_autogen/mocs_compilation.cpp.obj	b0062d06c15fc727
+8	204	6711787639609256	Test_autogen/timestamp	da9b9cdb77211a8d
+205	4933	6711787686835861	CMakeFiles/Test.dir/main.cpp.obj	38554d5c98c22bca
+8	204	6711787639609256	D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/Test_autogen/mocs_compilation.cpp	da9b9cdb77211a8d
+8	204	6711787639609256	D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/Test_autogen/timestamp	da9b9cdb77211a8d
+208	2199	6711787659511364	CMakeFiles/Test.dir/mainwindow.cpp.obj	f3022b21468c4dad
+4933	5180	6711787688865871	Test.exe	e1820717e2f013d0
+33	1183	6712038484288476	build.ninja	70f19a0748ead1e4
+1	32	0	D:/my repo/QT/build-Test-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	e7068169767435a1
+0	30	0	CMakeFiles/clean.additional	c313c7df7a6a27c5
+30	38	0	clean	a165b282cad8f1b0
